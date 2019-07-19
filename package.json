@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/stn-science/jssiconfi#readme",
   "devDependencies": {
-    "@types/node": "^12.6.8"
+    "@types/node": "^12.6.8",
+    "@types/node-fetch": "^2.3.7"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
