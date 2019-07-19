@@ -1,0 +1,26 @@
+{
+  "name": "jssiconfi",
+  "version": "0.0.1",
+  "description": "Biblioteca para consulta de dados da API do Siconfi do Tesouro Nacional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stn-science/jssiconfi.git"
+  },
+  "keywords": [
+    "Siconfi",
+    "Tesouro"
+  ],
+  "author": "Daniel Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stn-science/jssiconfi/issues"
+  },
+  "homepage": "https://github.com/stn-science/jssiconfi#readme",
+  "devDependencies": {
+    "@types/node": "^12.6.8"
+  }
+}
